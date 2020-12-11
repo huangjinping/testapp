@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444993062951",
+    "firebase_url": "https://microcash-70215.firebaseio.com",
+    "project_id": "microcash-70215",
+    "storage_bucket": "microcash-70215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444993062951:android:5997bce1015dc1cddd6602",
+        "android_client_info": {
+          "package_name": "con.modhe.uncash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444993062951-fbsubki3dkjsu49a3at452af6b289d35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB11kIF0Gr_9mb8XcS1r6zs0NPYjbuP5ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444993062951-fbsubki3dkjsu49a3at452af6b289d35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
